@@ -16,11 +16,8 @@ export const links =[
         href:"#proyectos"
     },
     {
-        name:"Formacion",
+        name:"Educacion",
         href:"#formacion"
     },
-    {
-        name:"Contacto",
-        href:"#contacto"
-    }
+    
 ]

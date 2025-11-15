@@ -27,15 +27,15 @@ export default function Habilidades() {
 
             <div className="flex justify-center gap-8 flex-wrap">
               <div className="flex flex-col items-center">
-                <Image src="/asset/tecnologia/figma.png" alt="Figma" width={40} height={40} />
+                <Image src="/asset/diseño/figma.png" alt="Figma" width={40} height={40} />
                 <p className="text-gray-300 text-sm mt-2">Figma</p>
               </div>
               <div className="flex flex-col items-center">
-                <Image src="/asset/iconos/uiux.png" alt="UI/UX" width={40} height={40} />
+                <Image src="/asset/diseño/pincel.png" alt="UI/UX" width={40} height={40} />
                 <p className="text-gray-300 text-sm mt-2">Diseño UI/UX</p>
               </div>
               <div className="flex flex-col items-center">
-                <Image src="/asset/tecnologia/canva.png" alt="Canva" width={40} height={40} />
+                <Image src="/asset/diseño/canva.png" alt="Canva" width={40} height={40} />
                 <p className="text-gray-300 text-sm mt-2">Canva</p>
               </div>
             </div>
@@ -57,7 +57,7 @@ export default function Habilidades() {
                 ["javascripticono.png", "JavaScript"],
                 ["react.png", "React"],
                 ["nextjs.png", "Next.js"],
-                ["angular.png", "Angular"],
+                ["typescript.png", "TypeScript"],
                 ["tailwind.png", "Tailwind CSS"],
                 ["flutter.png", "Flutter"],
                 ["dart.png", "Dart"],

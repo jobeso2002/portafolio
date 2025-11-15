@@ -1,3 +1,4 @@
+import { Github } from "lucide-react";
 import { TypeAnimation } from "react-type-animation";
 
 export default function Inicio() {
@@ -34,22 +35,24 @@ export default function Inicio() {
         {/* Botones de acción */}
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="#Proyectos"
+            href="#proyectos"
             className="bg-indigo-500 text-white px-6 py-3 rounded-lx mr-4 hover:bg-indigo-600 transition"
           >
             🧠 Ver proyectos
           </a>
           <a
-            href="#DescargarCV"
+            href="/cv/hojavida.pdf"
+            target="_blank"
             className="bg-indigo-500 text-white px-6 py-3 rounded-lx mr-4 hover:bg-indigo-600 transition"
           >
             📄 Descargar CV
           </a>
           <a
-            href="#contacto"
-            className="bg-indigo-500 text-white px-6 py-3 rounded-lx mr-4 hover:bg-indigo-600 transition"
+            href="https://github.com/jobeso2002"
+            target="_blank"
+            className="bg-indigo-500 text-white px-6 py-3 rounded-lx mr-4 hover:bg-indigo-600 transition flex items-center gap-2"
           >
-            📞 Contactame
+            <Github size={18} />GitHub
           </a>
           
         </div>

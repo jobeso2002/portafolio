@@ -12,7 +12,7 @@ export default function SobreMi() {
       <Card className="w-full max-w-2xl bg-white/10 backdrop-blur-md border border-gray-200 shadow-xl rounded-2xl p-8 text-center">
         <CardHeader className="space-y-4">
           <CardTitle className="text-3xl md:text-4xl font-bold mb-6 bg-linear-to-r from-blue-700 via-purple-600 to-black bg-clip-text text-transparent">
-            Sobre mí
+            Sobre <span className="text-white">Mí</span>
           </CardTitle>
 
           <CardDescription className="text-lg text-gray-200 leading-relaxed">
