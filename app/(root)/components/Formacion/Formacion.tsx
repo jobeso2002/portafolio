@@ -79,7 +79,7 @@ export default function Formacion() {
         {/* CARD 2 */}
         <Card className="bg-[#0f172a] border border-gray-700 shadow-xl rounded-2xl p-4 hover:scale-105 transition-transform">
           <Image
-            src="/cursos/Defensadelared.png"
+            src="/cursos/defensadelared.png"
             alt="defensa de red"
             width={600}
             height={400}
