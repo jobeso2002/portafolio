@@ -41,7 +41,7 @@ export default function Inicio() {
             🧠 Ver proyectos
           </a>
           <a
-            href="/cv/hojavida.pdf"
+            href="/cv/Hoja_de_Vida_joseobeso.pdf"
             target="_blank"
             className="bg-indigo-500 text-white px-6 py-3 rounded-lx mr-4 hover:bg-indigo-600 transition"
           >

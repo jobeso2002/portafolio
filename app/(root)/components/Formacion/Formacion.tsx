@@ -16,12 +16,12 @@ export default function Formacion() {
         <Card className="bg-linear-to-br from-slate-700 via-blue-600 to-slate-700 border border-gray-700 shadow-xl rounded-2xl p-8 transition-transform transform hover:scale-105 hover:shadow-2xl">
           <CardHeader>
             <CardTitle className="text-xl font-bold text-white mb-6">
-              Ingeniería en Sistemas - 10° Semestre
+              Ingeniería en Sistemas 
             </CardTitle>
 
             <CardDescription className="text-xl text-gray-300">
               Universidad Popular del Cesar (UPC) - Valledupar, Colombia
-              <p>Agosto 2019 - Presente</p>
+              <p>Agosto 2019 - Diciembre 2025</p>
             </CardDescription>
           </CardHeader>
         </Card>
