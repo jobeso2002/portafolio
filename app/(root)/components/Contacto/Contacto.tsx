@@ -64,7 +64,7 @@ export default function Contacto() {
             className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-5 text-base rounded-xl font-semibold shadow-lg shadow-indigo-900/40 transition-all duration-200"
           >
             <a
-              href="/cv/Jose_Obeso_Frontend_Junior.pdf"
+              href="/cv/hojavida.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3"

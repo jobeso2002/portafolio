@@ -21,7 +21,7 @@ export default function SobreMi() {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full blur-md opacity-50 scale-105" />
                 <Image
-                  src="/asset/foto-perfil.jpg"
+                  src="/asset/fotopresentacion.png"
                   alt="José Alfredo Obeso"
                   width={150}
                   height={150}

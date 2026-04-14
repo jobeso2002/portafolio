@@ -73,10 +73,10 @@ export default function Inicio() {
           <Button
             asChild
             variant="outline"
-            className="border-blue-500/40 text-blue-300 hover:bg-blue-500/10 hover:text-white px-6 py-3 rounded-xl font-semibold transition-all duration-200"
+            className="border-blue-500/40 text-blue-800 hover:bg-blue-500/10 hover:text-white px-6 py-3 rounded-xl font-semibold transition-all duration-200"
           >
             <a
-              href="/cv/Jose_Obeso_Frontend_Junior.pdf"
+              href="/cv/hojavida.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
@@ -89,7 +89,7 @@ export default function Inicio() {
           <Button
             asChild
             variant="outline"
-            className="border-slate-600 text-slate-300 hover:bg-slate-700/50 hover:text-white px-6 py-3 rounded-xl font-semibold transition-all duration-200"
+            className="border-slate-600 text-slate-700 hover:bg-slate-700/50 hover:text-white px-6 py-3 rounded-xl font-semibold transition-all duration-200"
           >
             <a
               href="https://github.com/jobeso2002"
