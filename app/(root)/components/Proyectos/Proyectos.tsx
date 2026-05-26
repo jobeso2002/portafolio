@@ -66,54 +66,54 @@ const proyectos = [
     repoFrontend: "https://github.com/jobeso2002/hackatonfinal.git",
     demo:         "https://calculadorasolar2025.netlify.app/",
   },
-  {
-    titulo: "✅ Todo List Flutter",
-    descripcion:
-      "Aplicación de lista de tareas desarrollada con Flutter para entorno web. Permite crear, editar y eliminar tareas con una interfaz limpia e intuitiva.",
-    imagen: "/asset/proyectos/flutter/todo_list.png",
-    tecnologias: ["Flutter"],
-    repoFrontend: "https://github.com/jobeso2002/todo_list_flutter.git",
-  },
-  {
-    titulo: "🍳 Recetas de Cocina Flutter",
-    descripcion:
-      "Aplicación Flutter web para explorar y gestionar recetas de cocina. Diseñada con una experiencia visual atractiva para los amantes de la gastronomía.",
-    imagen: "/asset/proyectos/flutter/recetas_cocina.png",
-    tecnologias: ["Flutter"],
-    repoFrontend: "https://github.com/jobeso2002/recetas_cocinas_flutter.git",
-  },
-  {
-    titulo: "💰 Gestión de Gastos Flutter",
-    descripcion:
-      "App Flutter web para el control y seguimiento de gastos personales. Permite registrar, categorizar y visualizar movimientos financieros de forma sencilla.",
-    imagen: "/asset/proyectos/flutter/gestion_gasto.png",
-    tecnologias: ["Flutter"],
-    repoFrontend: "https://github.com/jobeso2002/gestion_gasto_flutter.git",
-  },
-  {
-    titulo: "🧮 Calculadora Java",
-    descripcion:
-      "Calculadora de escritorio desarrollada en Java con interfaz gráfica. Soporta operaciones aritméticas básicas con un diseño funcional y limpio.",
-    imagen: "/asset/proyectos/java/calculadora.png",
-    tecnologias: ["Java"],
-    repoFrontend: "https://github.com/jobeso2002/calculadora.git",
-  },
-  {
-    titulo: "🔐 Login Java",
-    descripcion:
-      "Sistema de autenticación con interfaz gráfica en Java. Incluye validación de credenciales, manejo de sesiones y flujo de inicio de sesión seguro.",
-    imagen: "/asset/proyectos/java/login_java.png",
-    tecnologias: ["Java"],
-    repoFrontend: "https://github.com/jobeso2002/login_java.git",
-  },
-  {
-    titulo: "👥 Gestor de Usuarios Java",
-    descripcion:
-      "Aplicación de escritorio en Java para la gestión completa de usuarios. Permite crear, editar, eliminar y listar usuarios con interfaz gráfica robusta.",
-    imagen: "/asset/proyectos/java/gestor_usuarios.png",
-    tecnologias: ["Java"],
-    repoFrontend: "https://github.com/jobeso2002/Gestor_Usuarios.git",
-  },
+  // {
+  //   titulo: "✅ Todo List Flutter",
+  //   descripcion:
+  //     "Aplicación de lista de tareas desarrollada con Flutter para entorno web. Permite crear, editar y eliminar tareas con una interfaz limpia e intuitiva.",
+  //   imagen: "/asset/proyectos/flutter/todo_list.png",
+  //   tecnologias: ["Flutter"],
+  //   repoFrontend: "https://github.com/jobeso2002/todo_list_flutter.git",
+  // },
+  // {
+  //   titulo: "🍳 Recetas de Cocina Flutter",
+  //   descripcion:
+  //     "Aplicación Flutter web para explorar y gestionar recetas de cocina. Diseñada con una experiencia visual atractiva para los amantes de la gastronomía.",
+  //   imagen: "/asset/proyectos/flutter/recetas_cocina.png",
+  //   tecnologias: ["Flutter"],
+  //   repoFrontend: "https://github.com/jobeso2002/recetas_cocinas_flutter.git",
+  // },
+  // {
+  //   titulo: "💰 Gestión de Gastos Flutter",
+  //   descripcion:
+  //     "App Flutter web para el control y seguimiento de gastos personales. Permite registrar, categorizar y visualizar movimientos financieros de forma sencilla.",
+  //   imagen: "/asset/proyectos/flutter/gestion_gasto.png",
+  //   tecnologias: ["Flutter"],
+  //   repoFrontend: "https://github.com/jobeso2002/gestion_gasto_flutter.git",
+  // },
+  // {
+  //   titulo: "🧮 Calculadora Java",
+  //   descripcion:
+  //     "Calculadora de escritorio desarrollada en Java con interfaz gráfica. Soporta operaciones aritméticas básicas con un diseño funcional y limpio.",
+  //   imagen: "/asset/proyectos/java/calculadora.png",
+  //   tecnologias: ["Java"],
+  //   repoFrontend: "https://github.com/jobeso2002/calculadora.git",
+  // },
+  // {
+  //   titulo: "🔐 Login Java",
+  //   descripcion:
+  //     "Sistema de autenticación con interfaz gráfica en Java. Incluye validación de credenciales, manejo de sesiones y flujo de inicio de sesión seguro.",
+  //   imagen: "/asset/proyectos/java/login_java.png",
+  //   tecnologias: ["Java"],
+  //   repoFrontend: "https://github.com/jobeso2002/login_java.git",
+  // },
+  // {
+  //   titulo: "👥 Gestor de Usuarios Java",
+  //   descripcion:
+  //     "Aplicación de escritorio en Java para la gestión completa de usuarios. Permite crear, editar, eliminar y listar usuarios con interfaz gráfica robusta.",
+  //   imagen: "/asset/proyectos/java/gestor_usuarios.png",
+  //   tecnologias: ["Java"],
+  //   repoFrontend: "https://github.com/jobeso2002/Gestor_Usuarios.git",
+  // },
 ];
 
 const techStyles: Record<string, { color: string; icon: React.ReactNode }> = {
